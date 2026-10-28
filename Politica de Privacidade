@@ -1,0 +1,197 @@
+# 🔒 POLÍTICA DE PRIVACIDADE — BOT DE ORÇAMENTOS TUNING
+
+**Última atualização:** 27/10/2026  
+**Aplicação:** Bot de Orçamentos Tuning  
+**Plataforma:** Discord  
+**Responsável:** [NOME DO RESPONSÁVEL]  
+**Contato para privacidade:** [E-MAIL OU CANAL DE SUPORTE]
+
+## 1. INTRODUÇÃO
+
+Esta Política de Privacidade descreve como o Bot de Orçamentos Tuning ("Bot") poderá acessar, coletar, utilizar, armazenar, proteger e excluir informações necessárias ao funcionamento de seus serviços no Discord.
+
+O Bot foi desenvolvido para automatizar orçamentos de serviços automotivos, gerenciamento de peças, aplicação de descontos e administração de diferentes mecânicas e servidores.
+
+O tratamento dos dados deverá respeitar a legislação aplicável, incluindo a Lei Geral de Proteção de Dados Pessoais (LGPD — Lei nº 13.709/2018), quando aplicável, e as políticas do Discord.
+
+## 2. INFORMAÇÕES TRATADAS
+
+Conforme as funcionalidades utilizadas e as permissões concedidas, o Bot poderá processar:
+
+- Identificadores de usuários do Discord (User ID).
+- Identificadores de servidores (Guild ID).
+- Identificadores de canais e mensagens.
+- Identificadores de cargos para controle de permissões.
+- Informações de interação com botões, menus, comandos e formulários.
+- Dados de peças, quantidades, preços e orçamentos.
+- Informações de cupons, percentuais de desconto e regras de utilização.
+- Configurações individuais de mecânicas e servidores.
+- Registros técnicos e operacionais necessários ao funcionamento e à segurança.
+
+O Bot não precisa solicitar senhas, tokens pessoais, códigos de autenticação ou dados bancários dos usuários.
+
+## 3. FINALIDADE DO TRATAMENTO
+
+As informações são utilizadas para:
+
+- Gerar e calcular orçamentos.
+- Administrar catálogos de peças e preços.
+- Aplicar cupons de desconto.
+- Controlar permissões administrativas.
+- Identificar o servidor e a mecânica correspondente.
+- Manter configurações independentes entre comunidades.
+- Prevenir erros, fraudes e utilização indevida.
+- Diagnosticar falhas e melhorar o serviço.
+- Atender solicitações de suporte e privacidade.
+
+As informações não deverão ser utilizadas para finalidades incompatíveis com aquelas informadas nesta política.
+
+## 4. FUNCIONAMENTO EM MÚLTIPLOS SERVIDORES
+
+O Bot poderá funcionar simultaneamente em diferentes servidores Discord.
+
+Cada comunidade poderá possuir configurações próprias, incluindo:
+
+- Painéis de orçamento.
+- Mecânicas cadastradas.
+- Tabelas de preços.
+- Cupons de desconto.
+- Cargos e permissões administrativas.
+- Canais destinados às operações.
+
+A separação lógica dessas informações deverá impedir que administradores de uma mecânica acessem ou modifiquem indevidamente dados de outra.
+
+## 5. ARMAZENAMENTO E RETENÇÃO
+
+As configurações, dados operacionais e registros necessários poderão ser armazenados em arquivos, bancos de dados ou infraestrutura utilizada pelo responsável pelo Bot.
+
+Os dados deverão ser mantidos somente pelo período necessário às finalidades informadas, respeitando eventuais obrigações legais, requisitos de segurança e políticas aplicáveis.
+
+**Prazos de retenção:**
+- Configurações: [INFORMAR PRAZO OU CRITÉRIO].
+- Histórico de orçamentos: [INFORMAR PRAZO].
+- Logs técnicos: [INFORMAR PRAZO].
+- Backups: [INFORMAR PRAZO].
+
+Quando a retenção deixar de ser necessária, os dados deverão ser excluídos ou anonimizados, conforme aplicável.
+
+## 6. COMPARTILHAMENTO DE DADOS
+
+Os dados poderão ser compartilhados apenas quando necessário com:
+
+- O Discord, para viabilizar as funcionalidades da plataforma.
+- Prestadores de hospedagem, banco de dados ou infraestrutura contratados.
+- Administradores autorizados, dentro das permissões e funcionalidades do Bot.
+- Autoridades competentes, quando houver obrigação legal válida.
+
+O compartilhamento deverá observar as políticas do Discord e a legislação aplicável.
+
+O Bot não tem como finalidade comercializar dados pessoais.
+
+## 7. SEGURANÇA DAS INFORMAÇÕES
+
+O responsável deverá adotar medidas técnicas e administrativas proporcionais aos riscos, tais como:
+
+- Controle de acesso.
+- Restrição de permissões.
+- Proteção de credenciais e tokens.
+- Atualizações de segurança.
+- Separação dos dados por servidor e mecânica.
+- Monitoramento de falhas.
+- Proteção de backups, quando existentes.
+
+Nenhum sistema conectado à internet oferece garantia absoluta contra incidentes de segurança.
+
+Em caso de incidente envolvendo dados pessoais, serão adotadas as providências exigidas pela legislação aplicável.
+
+## 8. DIREITOS DOS USUÁRIOS
+
+Os usuários poderão solicitar, conforme a legislação aplicável:
+
+- Confirmação de tratamento de dados pessoais.
+- Acesso às informações pessoais tratadas.
+- Correção de informações incompletas ou incorretas.
+- Informações sobre utilização e compartilhamento.
+- Exclusão, bloqueio ou anonimização, quando cabível.
+- Revogação do consentimento, quando essa for a base legal.
+- Outros direitos previstos na LGPD.
+
+As solicitações deverão ser encaminhadas ao contato indicado nesta política.
+
+O responsável poderá solicitar comprovação proporcional de identidade para impedir acesso indevido a dados de terceiros.
+
+## 9. EXCLUSÃO DE DADOS
+
+Os usuários poderão solicitar a exclusão de dados pessoais relacionados à utilização do Bot, quando legalmente cabível.
+
+Administradores poderão solicitar a remoção das configurações vinculadas às respectivas mecânicas ou comunidades, mediante verificação de autorização.
+
+A remoção do Bot de um servidor não significa necessariamente a exclusão imediata de todos os registros armazenados.
+
+Pedidos serão analisados conforme os prazos legais e os critérios de retenção informados nesta política.
+
+**Canal de solicitação:** [E-MAIL OU CANAL DE SUPORTE]
+
+## 10. PERMISSÕES DO DISCORD
+
+O Bot poderá solicitar permissões necessárias à execução de suas funcionalidades, incluindo envio de mensagens, utilização de comandos, componentes interativos e gerenciamento de suas próprias mensagens, conforme a configuração efetiva.
+
+Os administradores devem revisar as permissões solicitadas antes da instalação.
+
+O Bot deverá utilizar apenas os acessos necessários ao serviço.
+
+## 11. BASES LEGAIS
+
+Quando houver tratamento de dados pessoais sujeito à LGPD, serão utilizadas as bases legais adequadas às respectivas finalidades, conforme o caso, incluindo execução de contrato, legítimo interesse, cumprimento de obrigação legal ou consentimento, quando aplicável.
+
+A base legal deve ser determinada a partir da atividade efetivamente realizada.
+
+## 12. USO POR MENORES
+
+O Bot é destinado a usuários que possam utilizar o Discord conforme os requisitos de idade da plataforma e a legislação aplicável.
+
+Caso haja tratamento de dados de crianças ou adolescentes, deverão ser observadas as proteções legais correspondentes.
+
+## 13. SERVIÇOS DE TERCEIROS
+
+O Bot utiliza a infraestrutura e os recursos disponibilizados pelo Discord.
+
+O tratamento de dados realizado diretamente pelo Discord está sujeito à política de privacidade própria da plataforma.
+
+Outros prestadores eventualmente utilizados pelo Bot deverão ser identificados quando necessário.
+
+**Política do Discord:** https://discord.com/privacy
+
+## 14. TRANSFERÊNCIA INTERNACIONAL
+
+Dependendo da localização dos serviços de hospedagem e demais fornecedores, os dados poderão ser processados fora do Brasil.
+
+Quando aplicável, essas operações deverão observar os mecanismos e requisitos legais de transferência internacional de dados.
+
+## 15. ALTERAÇÕES DESTA POLÍTICA
+
+Esta Política de Privacidade poderá ser atualizada para refletir alterações no funcionamento do Bot, nas medidas de segurança ou nas obrigações legais.
+
+A data da última atualização deverá ser modificada quando houver revisão.
+
+Mudanças relevantes serão comunicadas por meios adequados.
+
+## 16. RESPONSABILIDADES
+
+O responsável pelo Bot deverá assegurar o cumprimento desta política e da legislação aplicável.
+
+Os administradores dos servidores são responsáveis pelas configurações sob seu controle e pelo uso adequado das permissões concedidas.
+
+Os usuários devem evitar fornecer informações pessoais desnecessárias nos formulários e interações.
+
+## 17. CONTATO
+
+Para dúvidas, solicitações sobre dados pessoais, comunicação de problemas de segurança ou pedidos de exclusão:
+
+**Responsável:** Mauricio Dias  
+**Contato:** mauriciodias151@gmail.com  
+**Servidor de suporte:** [LINK DO SERVIDOR]
+
+---
+
+© 2026 Bot de Orçamentos Tuning. Todos os direitos reservados.
